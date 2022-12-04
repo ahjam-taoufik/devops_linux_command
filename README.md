@@ -11,3 +11,5 @@
 ### change hostname
  - show hostname : hostnamectl
  - change name in file : nano /etc/hostname
+### show version 
+ -  cat /etc/*ea*
