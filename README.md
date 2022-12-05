@@ -5,9 +5,7 @@
   - show ssh agent :  ssh-add -l
   - add  ssh agent :  eval `ssh-agent`  (note : use backteck)
   - assign key to agent : ssh-add
-### install ansible (good method)
-  - apt install python3-pip
-  - pip3 install ansible==2.9.9  (install specific version )
+
   
   
   
