@@ -27,3 +27,4 @@
 ###  stress server 
  - install : apt install stress
  - run for example : --cpu 1 --timeout 30
+ - show result in terminal by : htop (install htop if don't you have it)
