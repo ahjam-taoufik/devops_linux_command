@@ -20,3 +20,7 @@
  - change name in file : nano /etc/hostname
 ### show version 
  -  cat /etc/*ea*
+### show memory
+ - free -h
+### disc space
+ - df -h
