@@ -24,3 +24,6 @@
  - free -h
 ### disc space
  - df -h
+###  stress server 
+ - install : apt install stress
+ - run for example : --cpu 1 --timeout 30
