@@ -1,3 +1,9 @@
+## ssh
+  ### 
+    - yum install openssh-server
+    - /sbin/service sshd status
+
+
 ## change password
   ### from your compte
     - passwd
@@ -21,7 +27,8 @@
 
   
   
-  
+### info system
+   - uname -a
 ### change hostname
  - show hostname : hostnamectl
  - change name in file : nano /etc/hostname
