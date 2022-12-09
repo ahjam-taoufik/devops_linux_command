@@ -1,3 +1,6 @@
+## syntaxe command line :
+  - command options arguments (ex : ls -l /etc)
+
 ## ssh
   ### 
     - yum install openssh-server
