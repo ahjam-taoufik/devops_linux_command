@@ -1,3 +1,10 @@
+### change password
+  # from your compte
+    - passwd
+  # change password user from root
+    - passwd user_name
+
+
 ### access server root a distance
   - /etc/ssh/sshd_config
   - assign yes to : PermitRootLogin
