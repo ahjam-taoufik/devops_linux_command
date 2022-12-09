@@ -1,7 +1,7 @@
-### change password
-  # from your compte
+## change password
+  ### from your compte
     - passwd
-  # change password user from root
+  ### change password user from root
     - passwd user_name
 
 
