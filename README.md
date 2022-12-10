@@ -1,9 +1,8 @@
 ## permission
    - chown user_name file_name
    - chgrp group_ame filename
-   - chmod u+x file_name
-   - chmod u+rwx (or u=rwx) file_name
-   - 
+   - chmod u+x (or u-x for remove) file_name
+   - chmod u+rwx (or u=rwx) (or u=--- for remove) file_name
 
 ## syntaxe command line :
   - command options arguments (ex : ls -l /etc)
