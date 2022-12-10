@@ -9,6 +9,11 @@
    - chmod u+x * (this command for all file)
    - chmod -R a+x folder_name (you can add permission in recursive : folder and file ) 
    - chmod -R a+X folder_name (you can add permission in recursive :only folder  ) 
+   # octal method :
+      user| group| other
+     ----------------
+      rwx | rwx  |  rwx
+      421 | 421  | 421
 
 ## syntaxe command line :
   - command options arguments (ex : ls -l /etc)
