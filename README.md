@@ -14,6 +14,11 @@
     - passwd user_name
 ## add user from root
    - useradd name_user
+## groups commands
+   - add group : groupadd group_name
+   - show groups : cat /etc/group
+   - add user in group : usermod -aG group_name user_name (a: append  G: second group)
+   - add user in group : usermod  G group_name2 user_name ( G: second group , change group_name by group_name2)
 ## some command
    - show all id : id
    - show only id : id -u
