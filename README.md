@@ -19,6 +19,7 @@
    - show groups : cat /etc/group
    - add user in group : usermod -aG group_name user_name (a: append  G: second group)
    - add user in group : usermod  G group_name2 user_name ( G: second group , change group_name by group_name2)
+   - add user in groups : usermod  G group_name1,group_name2,group_name3, user_name 
 ## some command
    - show all id : id
    - show only id : id -u
