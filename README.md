@@ -1,7 +1,9 @@
 ## permission
    - chown user_name file_name
    - chgrp group_ame filename
-   - chmod u+x (or u-x for remove) file_name
+   - chmod u+x (or u-x for remove) file_name (u=user)
+   - chmod g+x (or g-x for remove) file_name (g=group)
+   - chmod o+x (or o-x for remove) file_name  (o=other)
    - chmod u+rwx (or u=rwx) (or u=--- for remove) file_name
 
 ## syntaxe command line :
