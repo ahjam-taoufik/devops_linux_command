@@ -13,7 +13,9 @@
       user| group| other
      ----------------
       rwx | rwx  |  rwx
-      421 | 421  | 421
+      421 | 421  |  421
+      example : 
+       - chmod 643 file_name (6=>4+2  4=>4   3=>2+1 )
 
 ## syntaxe command line :
   - command options arguments (ex : ls -l /etc)
