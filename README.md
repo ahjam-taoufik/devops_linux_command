@@ -12,6 +12,14 @@
     - passwd
   ### change password user from root
     - passwd user_name
+## add user from root
+   - useradd name_user
+## some command
+   - show all id : id
+   - show only id : id -u
+   - show user name :id -un (or :  whoami)
+   - show connect users in this moment : w (or : users) 
+   
 
 
 ### access server root a distance
