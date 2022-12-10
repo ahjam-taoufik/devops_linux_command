@@ -7,7 +7,8 @@
    - chmod u+rwx (or u=rwx) (or u=--- for remove) file_name
    - chmod g=x, o=r file_name
    - chmod u+x * (this command for all file)
-   - chmod -R a+x folder_name (you can add permission in recursive) 
+   - chmod -R a+x folder_name (you can add permission in recursive : folder and file ) 
+   - chmod -R a+X folder_name (you can add permission in recursive :only folder  ) 
 
 ## syntaxe command line :
   - command options arguments (ex : ls -l /etc)
