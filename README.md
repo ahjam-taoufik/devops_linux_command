@@ -2,7 +2,9 @@
   - search in file file1.txt word 'taoufik' : grep taoufik file1.txt
   -  search in file file1.txt word 'taoufik' (ignore case): grep -i taoufik file1.txt
   -  search in file file1.txt word 'taoufik' (with line number): grep -n taoufik file1.txt
-  - search in list word beggin by 'Do' : ls -l | grep Do 
+  - search in list word begin by 'Do' : ls -l | grep Do
+  - search world begin by world 'hello' : grep -in ^"hello" file.txt
+  - search world  end by world  'hello': grep -in "hello"$ file.txt
 
 
 ## permission
