@@ -1,3 +1,8 @@
+## Regex
+  - search in file file1.txt word 'taoufik' : grep taoufik file1.txt
+  - search in list word beggin by 'Do' : ls -l | grep Do 
+
+
 ## permission
    - chown user_name file_name
    - chgrp group_ame filename
