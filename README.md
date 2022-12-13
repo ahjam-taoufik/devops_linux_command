@@ -5,6 +5,8 @@
   - search in list word begin by 'Do' : ls -l | grep Do
   - search world begin by world 'hello' : grep -in ^"hello" file.txt
   - search world  end by world  'hello': grep -in "hello"$ file.txt
+  - search world contains 'hello' : grep -in "hello." file.txt
+  - search world contains and "m" in the seventh place 'hello' : grep -in "hello.m" file.txt
 
 
 ## permission
