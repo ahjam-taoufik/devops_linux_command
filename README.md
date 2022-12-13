@@ -52,6 +52,8 @@
    - add user in group : usermod  G group_name2 user_name ( G: second group , change group_name by group_name2)
    - add user in groups : usermod  G group_name1,group_name2,group_name3, user_name 
 ## some command
+   - show all informations from specific user : getent passwd user_name
+   - show all informations from specific user (privilege for root) : getent shadow user_name
    - show all id : id
    - show only id : id -u
    - show user name :id -un (or :  whoami)
