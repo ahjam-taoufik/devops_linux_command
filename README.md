@@ -1,5 +1,6 @@
 ## Regex
   - search in file file1.txt word 'taoufik' : grep taoufik file1.txt
+  -  search in file file1.txt word 'taoufik' (ignore case): grep -i taoufik file1.txt
   - search in list word beggin by 'Do' : ls -l | grep Do 
 
 
