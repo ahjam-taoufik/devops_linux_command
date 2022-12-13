@@ -7,7 +7,7 @@
   - search world  end by world  'hello': grep -in "hello"$ file.txt
   - search world contains 'hello' : grep -in "hello." file.txt
   - search world contains 'hello' and at the end "m" in the seventh place  : grep -in "hello.m" file.txt
-  - search world contains zero or multiple "m" in 'hello' : grep -in "hello*m" file.txt
+  - search world contains zero or multiple "o" in 'hello' : grep -in "hello*m" file.txt
 
 
 ## permission
