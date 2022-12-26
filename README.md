@@ -1,3 +1,7 @@
+## copie past file from windows to linux
+  
+  scp -rv demo-site.zip timitar@192.168.1.106:/home/timitar/Desktop
+
 ## Regex
   - search in file file1.txt word 'taoufik' : grep taoufik file1.txt
   -  search in file file1.txt word 'taoufik' (ignore case): grep -i taoufik file1.txt
