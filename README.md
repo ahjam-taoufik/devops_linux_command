@@ -63,6 +63,7 @@
    - show user name :id -un (or :  whoami)
    - show connect users in this moment : w (or : users)
    - add user in sudoers : in the root mod tape: sudo usermod -a -G sudo user_name (and restart machine)
+   - whoami
    
 
 
