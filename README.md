@@ -99,3 +99,9 @@
  - install : apt install stress
  - run for example : --cpu 1 --timeout 30
  - show result in terminal by : htop (install htop if don't you have it)
+ 
+### some commands
+  - manuel of any command ex : man rm
+  - remove file : rm name_of_folder 
+  - remove empty folder : rmdir name_of_folder
+  - remove not empty folder : rm -r name_of_folder (-r : recursive)
