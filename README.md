@@ -105,3 +105,5 @@
   - remove file : rm name_of_folder 
   - remove empty folder : rmdir name_of_folder
   - remove not empty folder : rm -r name_of_folder (-r : recursive)
+### Hierarchy
+  - show all filesystem : tree /
