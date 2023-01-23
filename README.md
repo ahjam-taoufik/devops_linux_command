@@ -106,5 +106,5 @@
   - remove empty folder : rmdir name_of_folder
   - remove not empty folder : rm -r name_of_folder (-r : recursive)
 ### Hierarchy
-  - tree (all Hierarchy)
+  - tree / (all Hierarchy)
   - tree -d -L 1 /  (-d : only diractory  -L 1 level one) 
